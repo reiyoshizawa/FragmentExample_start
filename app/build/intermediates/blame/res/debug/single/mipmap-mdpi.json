@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/yoshizawarei/Desktop/android-advanced-starter-apps-master/FragmentExample_start/app/build/intermediates/res/merged/debug/mipmap-mdpi/ic_launcher_round.png",
+        "source": "/Users/yoshizawarei/Desktop/android-advanced-starter-apps-master/FragmentExample_start/app/src/main/res/mipmap-mdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/yoshizawarei/Desktop/android-advanced-starter-apps-master/FragmentExample_start/app/build/intermediates/res/merged/debug/mipmap-mdpi/ic_launcher.png",
+        "source": "/Users/yoshizawarei/Desktop/android-advanced-starter-apps-master/FragmentExample_start/app/src/main/res/mipmap-mdpi/ic_launcher.png"
+    }
+]

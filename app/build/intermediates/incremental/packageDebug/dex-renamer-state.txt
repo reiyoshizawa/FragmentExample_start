@@ -1,0 +1,7 @@
+#Mon Jun 11 09:28:52 PDT 2018
+base.0=/Users/yoshizawarei/Desktop/android-advanced-starter-apps-master/FragmentExample_start/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_e2b949d526a7bf45ffcb35749bfa4098a10a6b27
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=/Users/yoshizawarei/Desktop/android-advanced-starter-apps-master/FragmentExample_start/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_76ecbc455085ad02d1a00827a033660f4ac55d7a/classes.dex
+base.1=/Users/yoshizawarei/Desktop/android-advanced-starter-apps-master/FragmentExample_start/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_76ecbc455085ad02d1a00827a033660f4ac55d7a
+file.0=/Users/yoshizawarei/Desktop/android-advanced-starter-apps-master/FragmentExample_start/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_e2b949d526a7bf45ffcb35749bfa4098a10a6b27/classes.dex

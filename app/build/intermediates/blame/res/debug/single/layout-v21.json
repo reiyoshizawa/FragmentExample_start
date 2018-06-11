@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/yoshizawarei/Desktop/android-advanced-starter-apps-master/FragmentExample_start/app/build/intermediates/res/merged/debug/layout-v21/notification_action.xml",
+        "source": "/Users/yoshizawarei/.android/build-cache/7d318903877538ed19d391d3cc540ecd22a834a9/output/res/layout-v21/notification_action.xml"
+    },
+    {
+        "merged": "/Users/yoshizawarei/Desktop/android-advanced-starter-apps-master/FragmentExample_start/app/build/intermediates/res/merged/debug/layout-v21/notification_template_custom_big.xml",
+        "source": "/Users/yoshizawarei/.android/build-cache/7d318903877538ed19d391d3cc540ecd22a834a9/output/res/layout-v21/notification_template_custom_big.xml"
+    },
+    {
+        "merged": "/Users/yoshizawarei/Desktop/android-advanced-starter-apps-master/FragmentExample_start/app/build/intermediates/res/merged/debug/layout-v21/notification_action_tombstone.xml",
+        "source": "/Users/yoshizawarei/.android/build-cache/7d318903877538ed19d391d3cc540ecd22a834a9/output/res/layout-v21/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/Users/yoshizawarei/Desktop/android-advanced-starter-apps-master/FragmentExample_start/app/build/intermediates/res/merged/debug/layout-v21/notification_template_icon_group.xml",
+        "source": "/Users/yoshizawarei/.android/build-cache/7d318903877538ed19d391d3cc540ecd22a834a9/output/res/layout-v21/notification_template_icon_group.xml"
+    }
+]

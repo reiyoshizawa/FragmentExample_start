@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/yoshizawarei/Desktop/android-advanced-starter-apps-master/FragmentExample_start/app/build/intermediates/res/merged/debug/drawable-v21/notification_action_background.xml",
+        "source": "/Users/yoshizawarei/.android/build-cache/7d318903877538ed19d391d3cc540ecd22a834a9/output/res/drawable-v21/notification_action_background.xml"
+    },
+    {
+        "merged": "/Users/yoshizawarei/Desktop/android-advanced-starter-apps-master/FragmentExample_start/app/build/intermediates/res/merged/debug/drawable-v21/abc_btn_colored_material.xml",
+        "source": "/Users/yoshizawarei/.android/build-cache/721395f64c5cd7d5ce809c39426f3fd3cd693d3e/output/res/drawable-v21/abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "/Users/yoshizawarei/Desktop/android-advanced-starter-apps-master/FragmentExample_start/app/build/intermediates/res/merged/debug/drawable-v21/abc_edit_text_material.xml",
+        "source": "/Users/yoshizawarei/.android/build-cache/721395f64c5cd7d5ce809c39426f3fd3cd693d3e/output/res/drawable-v21/abc_edit_text_material.xml"
+    },
+    {
+        "merged": "/Users/yoshizawarei/Desktop/android-advanced-starter-apps-master/FragmentExample_start/app/build/intermediates/res/merged/debug/drawable-v21/abc_action_bar_item_background_material.xml",
+        "source": "/Users/yoshizawarei/.android/build-cache/721395f64c5cd7d5ce809c39426f3fd3cd693d3e/output/res/drawable-v21/abc_action_bar_item_background_material.xml"
+    }
+]

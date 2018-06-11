@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "/Users/yoshizawarei/Desktop/android-advanced-starter-apps-master/FragmentExample_start/app/build/intermediates/res/merged/debug/color-v23/abc_tint_default.xml",
+        "source": "/Users/yoshizawarei/.android/build-cache/721395f64c5cd7d5ce809c39426f3fd3cd693d3e/output/res/color-v23/abc_tint_default.xml"
+    },
+    {
+        "merged": "/Users/yoshizawarei/Desktop/android-advanced-starter-apps-master/FragmentExample_start/app/build/intermediates/res/merged/debug/color-v23/abc_btn_colored_borderless_text_material.xml",
+        "source": "/Users/yoshizawarei/.android/build-cache/721395f64c5cd7d5ce809c39426f3fd3cd693d3e/output/res/color-v23/abc_btn_colored_borderless_text_material.xml"
+    },
+    {
+        "merged": "/Users/yoshizawarei/Desktop/android-advanced-starter-apps-master/FragmentExample_start/app/build/intermediates/res/merged/debug/color-v23/abc_tint_edittext.xml",
+        "source": "/Users/yoshizawarei/.android/build-cache/721395f64c5cd7d5ce809c39426f3fd3cd693d3e/output/res/color-v23/abc_tint_edittext.xml"
+    },
+    {
+        "merged": "/Users/yoshizawarei/Desktop/android-advanced-starter-apps-master/FragmentExample_start/app/build/intermediates/res/merged/debug/color-v23/abc_tint_switch_track.xml",
+        "source": "/Users/yoshizawarei/.android/build-cache/721395f64c5cd7d5ce809c39426f3fd3cd693d3e/output/res/color-v23/abc_tint_switch_track.xml"
+    },
+    {
+        "merged": "/Users/yoshizawarei/Desktop/android-advanced-starter-apps-master/FragmentExample_start/app/build/intermediates/res/merged/debug/color-v23/abc_btn_colored_text_material.xml",
+        "source": "/Users/yoshizawarei/.android/build-cache/721395f64c5cd7d5ce809c39426f3fd3cd693d3e/output/res/color-v23/abc_btn_colored_text_material.xml"
+    },
+    {
+        "merged": "/Users/yoshizawarei/Desktop/android-advanced-starter-apps-master/FragmentExample_start/app/build/intermediates/res/merged/debug/color-v23/abc_tint_spinner.xml",
+        "source": "/Users/yoshizawarei/.android/build-cache/721395f64c5cd7d5ce809c39426f3fd3cd693d3e/output/res/color-v23/abc_tint_spinner.xml"
+    },
+    {
+        "merged": "/Users/yoshizawarei/Desktop/android-advanced-starter-apps-master/FragmentExample_start/app/build/intermediates/res/merged/debug/color-v23/abc_tint_seek_thumb.xml",
+        "source": "/Users/yoshizawarei/.android/build-cache/721395f64c5cd7d5ce809c39426f3fd3cd693d3e/output/res/color-v23/abc_tint_seek_thumb.xml"
+    },
+    {
+        "merged": "/Users/yoshizawarei/Desktop/android-advanced-starter-apps-master/FragmentExample_start/app/build/intermediates/res/merged/debug/color-v23/abc_tint_btn_checkable.xml",
+        "source": "/Users/yoshizawarei/.android/build-cache/721395f64c5cd7d5ce809c39426f3fd3cd693d3e/output/res/color-v23/abc_tint_btn_checkable.xml"
+    },
+    {
+        "merged": "/Users/yoshizawarei/Desktop/android-advanced-starter-apps-master/FragmentExample_start/app/build/intermediates/res/merged/debug/color-v23/abc_color_highlight_material.xml",
+        "source": "/Users/yoshizawarei/.android/build-cache/721395f64c5cd7d5ce809c39426f3fd3cd693d3e/output/res/color-v23/abc_color_highlight_material.xml"
+    }
+]

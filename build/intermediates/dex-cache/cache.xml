@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/yoshizawarei/.android/build-cache/306c2ebe5699c7dc51739ed5695e1de07b2ce035/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="a4590fa7eadce322ca893129fdc999074e1aa5bf">
+        <dex dex="/Users/yoshizawarei/Desktop/android-advanced-starter-apps-master/FragmentExample_start/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_4fd770efbab6a9edd52e1b347bc623922857b620/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/yoshizawarei/.android/build-cache/7d318903877538ed19d391d3cc540ecd22a834a9/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="22c673e65215e0764add61e3102946de895439e4">
+        <dex dex="/Users/yoshizawarei/Desktop/android-advanced-starter-apps-master/FragmentExample_start/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_e75aba54c80d800347bdc488d11e4e4b9bad8804/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/yoshizawarei/Desktop/android-advanced-starter-apps-master/FragmentExample_start/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/Users/yoshizawarei/Desktop/android-advanced-starter-apps-master/FragmentExample_start/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_e2b949d526a7bf45ffcb35749bfa4098a10a6b27/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/yoshizawarei/.android/build-cache/96c02454c84e746681df0138041560b2715e02fc/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/yoshizawarei/Desktop/android-advanced-starter-apps-master/FragmentExample_start/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_20711c6216c8643b6c3fbb7789c69dcd460d1962/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/yoshizawarei/.android/build-cache/5d67a16db45a5ecae757f6e369fd569009361979/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="dff4d8f88fe2c0e57306e6981fd9b90caeead7e3">
+        <dex dex="/Users/yoshizawarei/Desktop/android-advanced-starter-apps-master/FragmentExample_start/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_4c714c9f7ed9fd472bfd3de43ebca74a35537d6f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/yoshizawarei/.android/build-cache/64fcea9934ddeed26f5d5bd61f89db3232f0e2eb/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="d095503f29a8dedc55b9326ed97a5902a1527ab9">
+        <dex dex="/Users/yoshizawarei/Desktop/android-advanced-starter-apps-master/FragmentExample_start/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_18607418b08e68b4ecec27e5ca31d764804b386e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/yoshizawarei/Desktop/android-advanced-starter-apps-master/FragmentExample_start/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="414f76f2eaf62e67be3c301038eb20fe3757c54a">
+        <dex dex="/Users/yoshizawarei/Desktop/android-advanced-starter-apps-master/FragmentExample_start/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_76ecbc455085ad02d1a00827a033660f4ac55d7a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/yoshizawarei/.android/build-cache/25fbd1994380bd6d071641146442a15434320c13/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="/Users/yoshizawarei/Desktop/android-advanced-starter-apps-master/FragmentExample_start/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_52adc3bab33d18977105334a38dd79a960491c90/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/yoshizawarei/.gradle/caches/modules-2/files-2.1/com.android.support/support-annotations/26.0.1/e1bb32b12b25e2f78e6786059ca7ea878f8345e0/support-annotations-26.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="e1bb32b12b25e2f78e6786059ca7ea878f8345e0">
+        <dex dex="/Users/yoshizawarei/Desktop/android-advanced-starter-apps-master/FragmentExample_start/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-26.0.1_ed0106c66527f68bdbc01a8322eed07e2335ca3d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/yoshizawarei/.android/build-cache/527ccba41e068bd5b8cd425e8b2bbdefa4369f9f/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="71af915b7f4f7ec0b5f768b365145bb6a5cb9a66">
+        <dex dex="/Users/yoshizawarei/Desktop/android-advanced-starter-apps-master/FragmentExample_start/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_b0ad818f869ebf1ce14901ce27df5b2e8d2d0fb4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/yoshizawarei/.android/build-cache/721395f64c5cd7d5ce809c39426f3fd3cd693d3e/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="681eeeaec5300e5257ad9bf889c3859ba3833d5a">
+        <dex dex="/Users/yoshizawarei/Desktop/android-advanced-starter-apps-master/FragmentExample_start/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_e405bb4d48998676d0f67e1dbfdea15417af0e4c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/yoshizawarei/.android/build-cache/ec94c7306f93ba53923deb2f4bc2e162384658b1/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="083e7bc5a9d9404b49b8f34e5091532361fa28e6">
+        <dex dex="/Users/yoshizawarei/Desktop/android-advanced-starter-apps-master/FragmentExample_start/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_776900101ff1edf682f4149cfbbe2d293350e604/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/yoshizawarei/.android/build-cache/61433e4ef36f678918a873e6a6275389ee998afe/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="e7424f816f538c2acfba6169b25e297ea22afbd8">
+        <dex dex="/Users/yoshizawarei/Desktop/android-advanced-starter-apps-master/FragmentExample_start/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_ae704cfa69e9e06a4b372a96aca441e8bed9c47c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/yoshizawarei/Library/Android/sdk/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.2/constraint-layout-solver-1.0.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="/Users/yoshizawarei/Desktop/android-advanced-starter-apps-master/FragmentExample_start/app/build/intermediates/transforms/dex/debug/folders/1000/10/constraint-layout-solver-1.0.2_5dd64de20f525681e0f8fc9881536d50d959191c/classes.dex" />
+    </item>
+
+</items>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:background="@color/my_fragment_color"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    tools:context=".SimpleFragment">
+
+    <TextView
+        android:id="@+id/fragment_header"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="LIKE THE ARTICLE"
+        android:padding="5dp"
+        android:textAppearance="@style/TextAppearance.AppCompat.Medium"
+        />
+
+    <RadioGroup
+        android:id="@+id/radio_group"
+        android:orientation="horizontal"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content">
+        <RadioButton
+            android:id="@+id/radio_button_yes"
+            android:text="YES"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+        <RadioButton
+            android:id="@+id/radio_button_no"
+            android:text="NO"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+    </RadioGroup>
+
+</LinearLayout>
